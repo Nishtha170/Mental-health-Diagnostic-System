@@ -1,0 +1,10 @@
+Dataset,Model,Accuracy,Precision,Recall,F1_Score
+dataset1,Random Forest,1.0,1.0,1.0,1.0
+dataset1,SVM,1.0,1.0,1.0,1.0
+dataset1,LSTM,1.0,1.0,1.0,1.0
+dataset2,Random Forest,0.995,0.9950314465408805,0.995,0.9949777659534036
+dataset2,SVM,1.0,1.0,1.0,1.0
+dataset2,LSTM,1.0,1.0,1.0,1.0
+dataset3,Random Forest,1.0,1.0,1.0,1.0
+dataset3,SVM,1.0,1.0,1.0,1.0
+dataset3,LSTM,1.0,1.0,1.0,1.0
